@@ -1,4 +1,4 @@
-# olimpiak
+# olimpiak weblap
 ## GitHub proba
-## GitHub proba letoltes
-## GitHub proba feltoltes
+## készítő: Páncsics Janka
+## 9.A csop1
