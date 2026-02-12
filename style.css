@@ -2,10 +2,25 @@ p{
     color: rgb(10, 67, 117);
 }
 body{
-    background-image: url(zaszlo.jpg)  ;
+    /* background-image: url(zaszlo.jpg)  ;
     background-size: cover;
-}
+} */
 h1{
     color: rgb(255, 0, 0);
     text-align: center;
 }  
+#okori{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    font-style: italic;
+    text-align: justify;
+    margin: 20px 100px 20px 100px; 
+    /* font-variant: small-caps; */
+    line-height: 150%;
+    /* text-transform: capitalize; */
+    /* text-transform: lowercase; */
+    text-transform: uppercase;
+}
+#NOB{
+    text-decoration: underline;
+}
