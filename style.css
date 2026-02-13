@@ -1,5 +1,11 @@
 p{
     color: rgb(10, 67, 117);
+    font-family: 'Times New Roman', Times, serif;
+    /* text-align: justify; */
+    line-height: 1.5;
+    margin: 20px 100px 20px 100px;
+    background-color: aliceblue;
+    text-indent: 20px;
 }
 body{
     /* background-image: url(zaszlo.jpg)  ;
@@ -9,18 +15,39 @@ h1{
     color: rgb(255, 0, 0);
     text-align: center;
 }  
-#okori{
+ 
+ }
+/*#okori{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 150%;
     font-style: italic;
     text-align: justify;
     margin: 20px 100px 20px 100px; 
     /* font-variant: small-caps; */
-    line-height: 150%;
+    /*line-height: 150%;
     /* text-transform: capitalize; */
     /* text-transform: lowercase; */
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
-#NOB{
+
+ #NOB{
     text-decoration: underline;
-}
+ }
+ li{
+    list-style-image: url(logo.png);
+ }
+
+ #bejarat{
+    height: 200px;
+    float: right;
+    border: 5px solid rgb(14, 146, 207);
+    padding: 8px;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;z
+    margin-left: 20px;
+    /* margin-right: 20px; */
+ }
+
+ .bekezdes{
+    
+ }
